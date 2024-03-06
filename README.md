@@ -11,10 +11,9 @@ Avoid Duplicate Questions: Optionally, the system can be configured to avoid cre
 Usage
 To use the project, simply run the main.py script with the path to your input text file or document. You can customize the behavior by adjusting the parameters and options in the code.
 
-bash
-Copy code
 python main.py path/to/your/file.txt
+
 Requirements
-Python 3.x
-spaCy library (pip install spacy)
-spaCy English language model (python -m spacy download en_core_web_sm)
+--> Python 3.x
+--> spaCy library (pip install spacy)
+--> spaCy English language model (python -m spacy download en_core_web_sm)
