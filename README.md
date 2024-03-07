@@ -14,6 +14,6 @@ To use the project, simply run the main.py script with the path to your input te
 python main.py path/to/your/file.txt
 
 # Requirements
---> Python 3.x
---> spaCy library (pip install spacy)
---> spaCy English language model (python -m spacy download en_core_web_sm)
+* Python 3
+* spaCy library (pip install spacy)
+* spaCy English language model (python -m spacy download en_core_web_sm)
