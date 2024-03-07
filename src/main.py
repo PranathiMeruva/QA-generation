@@ -1,5 +1,5 @@
 # src/main.py
-from .genQA import parse_and_generate_questions_answers
+from genQA import parse_and_generate_questions_answers
 
 def run_question_generation(file_path):
     try:
